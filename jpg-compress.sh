@@ -13,7 +13,7 @@
 #############################
 if ([ -z "$1" ] || [ -z "$2" ]) || [ "$1" == "--help" ]
 then
-	echo -e "Usage: compress-jpg.sh /path 80
+	echo -e "Usage: jpg-compress.sh /path 80
 
 Where path is the path of image or folder (for current directory use .)
 and 80 is quality of image after compression.
