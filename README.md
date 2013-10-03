@@ -13,23 +13,23 @@ Commands required:
 Usage
 --------------------
 
-Example with single file
---------------------
+### Example with single file
 
-bash jpg-compress photo.jpg 80
+**bash jpg-compress photo.jpg 80**
 
 * photo.jpg -> file to compress (original image will be replaced by compressed image)
 * 80 -> image quality after compression
 
-Example with folder
---------------------
+### Example with folder
 
-bash jpg-compress images/ 70
-* images -> folder with jpg images (original images will be replaced with compressed images)
+**bash jpg-compress images/ 70**
+
+* images/ -> folder with jpg images (original images will be replaced with compressed images)
 * 70 -> images quality after compression
 
 Author
 --------------------
 
 Angelito M. Goulart
+
 www.angelitomg.com
