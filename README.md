@@ -1,6 +1,6 @@
 jpg-compress
 ====================
-Simple script to compress JPEG images
+Simple script to compress JPEG images.
 
 Requeriments
 --------------------
